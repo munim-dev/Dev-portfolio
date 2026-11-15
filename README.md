@@ -1,4 +1,4 @@
-hey my name is abdul munim and this is my portfolio. 
+hey my name is Abdul munim i'm 15 and this is my portfolio. 
 
 im new to this whole github and some tech stuff but i wish this's going to be a simple and easy journey 
 
