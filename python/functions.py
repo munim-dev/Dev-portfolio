@@ -6,7 +6,7 @@ import math #to convert RPM to radians /s
 
 convert = input("please state which unit of convertion you want mtr,mmtr,kel,rs:  ")
 
-#defining all needed functions 
+#defining all needed functions to convert
 def mmtr_to_mtr(in_mmtr):
     mtr=in_mmtr*1000
     return mtr
@@ -41,5 +41,7 @@ if convert == "rs":
     rpm = int(input("what the unit of rpm : "))
     print("the unit of r/s is: ", rpm_to_rs(rpm))
 
+#next up is adding maybe a more general measurent to ask the user like distance,temp etc then choosing the units
+#making the code less messy and making the possible of else in the if statements 
 
 
