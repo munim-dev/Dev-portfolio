@@ -14,3 +14,4 @@ for i in range(time_rn):
         print("SIMULATION DONE :) !!")
         break
 
+#my next step is to actually graph this code like showing the "robot" moving
